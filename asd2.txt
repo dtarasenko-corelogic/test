@@ -1,1 +1,2 @@
 server.password=***REMOVED***
+app.name=super-app
