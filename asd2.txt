@@ -1,2 +1,2 @@
-server.password=***REMOVED***
+server.password=First
 app.name=super-app

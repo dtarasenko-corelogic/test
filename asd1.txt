@@ -1,2 +1,2 @@
-server.password=***REMOVED***
+server.password=Second
 server.name=dummy
